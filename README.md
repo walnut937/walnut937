@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Panda😎</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/thomasync/thomasync/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+</div>  
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walnut937&label=Profile%20views&color=0e75b6&style=flat" alt="walnut937" /> </p>
 
 <p align="left"> <a href="https://twitter.com/walnut_937" target="blank"><img src="https://img.shields.io/twitter/follow/walnut_937?logo=twitter&style=for-the-badge" alt="walnut_937" /></a> </p>
