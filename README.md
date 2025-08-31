@@ -21,10 +21,10 @@
 
 <hr>
 
-## <p align="center"><h4 align="center"><samp> A developer who builds clouds, codes the web, and programs & optimizes systems. </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A gopher who builds clouds, codes the web, and programs & optimizes systems. </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/walnut937/walnut937/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="https://github.com/walnut937/walnut937/blob/main/luffy.gif" width="40%"/>
   <br>
 
 - 👷 <samp><b>Software Developer</b>
@@ -40,8 +40,6 @@
 
 ##
 
-<hr>
-
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 💼 <b>Software Developer @ Masscoinex ( Intern & Full Time )</b><br>
@@ -51,7 +49,7 @@
 - 🤝 <b>Coordinated cross-functional teams to deliver projects on time, balancing priorities and resources. </b><br>
 </div>
 
-<hr>
+##
 
 <h3><b><samp>Skills:</samp></b></h3>
 
@@ -79,7 +77,6 @@
 
 ![](https://skillicons.dev/icons?i=ai,figma&perline=18)
     
-<hr>
 
 ##
 <h3><b><samp>Tools and Platform:</samp></b></h3>
@@ -93,12 +90,12 @@
 ![](https://skillicons.dev/icons?i=idea,pycharm,vscode,sublime,vim&perline=18)
 
 
-<hr>
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=walnut937&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walnut937&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=walnut937&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=walnut937&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img align="right" src="https://github.com/walnut937/walnut937/blob/main/my-contribution-dark.svg" width="40%"/>
+  <img align="right" src="https://github.com/walnut937/walnut937/blob/main/my-contribution-dark.svg" width="100%"/>
 </div>
