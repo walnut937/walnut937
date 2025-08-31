@@ -19,9 +19,8 @@
 <br><br>
 ![](https://github.com/walnut937/walnut937/blob/main/header_.png)
 
-<hr>
 
-## <p align="center"><h4 align="center"><samp> A gopher who builds clouds, codes the web, and programs & optimizes systems. </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A gopher who builds clouds☁️, codes the web🕸️, and programs & optimizes systems⚙️. </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/walnut937/walnut937/blob/main/luffy.gif" width="40%"/>
@@ -59,7 +58,7 @@
 
 <h4><b><samp>DevOps</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,nginx,grafana,prometheus,gcp&perline=18)
+![](https://skillicons.dev/icons?i=git,docker,kubernetes,aws,jenkins,nginx,grafana,prometheus&perline=18)
 
 <h4><b><samp>Frontend</samp></b></h4>
 
@@ -93,9 +92,8 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walnut937&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walnut937&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=walnut937&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walnut937&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img align="right" src="https://github.com/walnut937/walnut937/blob/main/my-contribution-dark.svg" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=walnut937&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=walnut937&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=walnut937&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
