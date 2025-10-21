@@ -54,7 +54,7 @@
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=c,rust,py,js,ts,go,bash&perline=18)
+![](https://skillicons.dev/icons?i=c,rust,py,js,ts,go,java,bash&perline=18)
 
 <h4><b><samp>DevOps</samp></b></h4>
 
@@ -66,7 +66,7 @@
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=go,nodejs,postman,kafka,socketio&perline=18)
+![](https://skillicons.dev/icons?i=go,nodejs,postman,kafka,spring,maven,socketio&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
